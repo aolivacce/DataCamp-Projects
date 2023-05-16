@@ -1,8 +1,8 @@
-# Khan Academy Projects
-A collection of SQL projects courtesy of khanacademy.org
+# Data Camp Projects
+A collection of SQL projects courtesy of datacamp.com
 
-**Project #1: App impersonator**
+**Project #1: Analyzing Unicorn Companies**
 
-View my project!
+View my [project]()!
 
 **Project #2:**
