@@ -1,5 +1,5 @@
 # Data Camp Projects
-A collection of SQL projects courtesy of datacamp.com
+A collection of SQL, R & Python projects that I have completed courtesy of datacamp.com
 
 ## Table of Contents
 - SQL Projects 
@@ -51,4 +51,14 @@ We will use the [crime statistics](http://goccp.maryland.gov/crime-statistics/) 
 
 How can you tell what programming languages and technologies are used by the most people? How about what languages are growing and which are shrinking, so that you can tell which are most worth investing time in? One excellent source of data is Stack Overflow, a programming question and answer site with more than 16 million questions on programming topics. By measuring the number of questions about each technology, you can get an approximate sense of how many people are using it. In this project, you'll use open data from the [Stack Exchange Data Explorer](https://data.stackexchange.com/) to examine the relative popularity of languages like R, Python, Java and Javascript have changed over time.
 
-**View my [project](https://github.com/aolivacce/DataCamp-Projects/blob/main/.ipynb)!**
+**View my [project](https://github.com/aolivacce/DataCamp-Projects/blob/main/programlanguages.ipynb)!**
+
+### Project #6: Where Would You Open a Chipotle?
+
+Believe it or not, there is a state in the continental United States without a Chipotle! In this Project, you'll explore real data on every Chipotle to identify this state. Then you'll scout out the next Chipotle location using interactive maps and external data to compare proposed locations on several important factors, such as proximity to current Chipotle locations, the distribution of the state's population, and the distance from interstates and tourist attractions.
+
+To complete this Project, you should be comfortable using the tidyverse and leaflet in R.
+
+The data for this Project was provided by [Thinknum](https://www.thinknum.com/), an alternative data provider focused on generating insights off the web.
+
+**View my [project](https://github.com/aolivacce/DataCamp-Projects/blob/main/chipotle.ipynb)!**
