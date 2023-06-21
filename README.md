@@ -62,3 +62,12 @@ To complete this Project, you should be comfortable using the tidyverse and leaf
 The data for this Project was provided by [Thinknum](https://www.thinknum.com/), an alternative data provider focused on generating insights off the web.
 
 **View my [project](https://github.com/aolivacce/DataCamp-Projects/blob/main/chipotle.ipynb)!**
+
+## Python 
+
+### Project #7: Exploring the Bitcoin Cryptocurrency Market
+
+To better understand the growth and impact of Bitcoin and other cryptocurrencies you will, in this project we will explore the market capitalization of different cryptocurrencies.
+
+**View my [project](https://github.com/aolivacce/DataCamp-Projects/blob/main/cryptocurrency.ipynb)**
+
