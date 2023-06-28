@@ -2,11 +2,12 @@
 A collection of SQL, R & Python projects that I have completed courtesy of datacamp.com
 
 ## Table of Contents
-- SQL Projects 
-- R Projects 
-- Python Projects 
+- [SQL Projects](#sql)
+- [R Projects](#r)
+- [Python Projects](#python)
 
 ## SQL
+
 ### Project #1: Analyzing Unicorn Companies
 
 Which industries are booming? Where should your next investment be? With the rise of the ‘amateur investor’ and the availability of platforms enabling people to invest and sell stock in public companies, it’s never been a better time to understand the financial performance of companies across the globe!
@@ -65,7 +66,13 @@ The data for this Project was provided by [Thinknum](https://www.thinknum.com/),
 
 ## Python 
 
-### Project #7: Exploring the Bitcoin Cryptocurrency Market
+### Project #7: Dr. Semmelweis and the Discovery of Handwashing
+
+In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
+
+**View my [project](https://github.com/aolivacce/DataCamp-Projects/blob/main/semmelweis.ipynb)!**
+
+### Project #8: Exploring the Bitcoin Cryptocurrency Market
 
 To better understand the growth and impact of Bitcoin and other cryptocurrencies you will, in this project we will explore the market capitalization of different cryptocurrencies.
 
